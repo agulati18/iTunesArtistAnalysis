@@ -1,4 +1,4 @@
-# Artist Analysis with the iTunes search API
+# Artist Analysis with the iTunes API
 
 ## Introduction
 The goal of this coding project is to compare artists based on the number of albums they have produced and the number of large albums. To achieve this goal, we will use the iTunes search API to obtain the artist's ID and album data. We will then extract the relevant data and compare the number of albums produced by different artists.
